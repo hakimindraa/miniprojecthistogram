@@ -1,0 +1,22 @@
+========================================
+  CARA MENJALANKAN PROGRAM
+========================================
+
+1. INSTALL DEPENDENCIES
+------------------------
+python -m pip install streamlit opencv-python pillow numpy matplotlib
+
+
+2. JALANKAN PROGRAM
+-------------------
+python -m streamlit run convolution_web.py
+
+
+3. BUKA BROWSER
+---------------
+http://localhost:8501
+
+
+========================================
+SELESAI! Program sudah jalan.
+========================================
